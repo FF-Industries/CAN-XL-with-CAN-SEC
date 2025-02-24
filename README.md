@@ -10,7 +10,7 @@ The above image shows all the nodes have acknowledgment working when one node se
 
 The above image shows the final data output that the CPU must get but in my case due to timing issues i could not make the data_out_2 send any data and this is the third node but in case of Krishnamoorthy_Sreeram_Thesis everything works correctly.
 
-I am using vivado tool to run the simulations and the important input signal is osc_clk and data_in and output to verify is data_out and also can_bus_out.
+I am using vivado tool to run the simulations and the important input signal is osc_clk and data_in and output to verify is data_out and also can_bus_out. Please run the Krishnamoorthy_Sreeram_Thesis code at least once to get an understanding of the outputs.
 
 Results from Krishnamoorthy_Sreeram_Thesis
 

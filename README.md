@@ -12,6 +12,10 @@ The above image shows the final data output that the CPU must get but in my case
 
 I am using vivado tool to run the simulations and the important input signal is osc_clk and data_in and output to verify is data_out and also can_bus_out.
 
+Results from Krishnamoorthy_Sreeram_Thesis
+
+
+
 
 
 

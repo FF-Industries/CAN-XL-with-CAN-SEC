@@ -16,6 +16,8 @@ Results from Krishnamoorthy_Sreeram_Thesis
 
 ![image](https://github.com/user-attachments/assets/6d21d3ad-2526-49f1-a28e-39c2f993af00)
 
+Refernce is S. Krishnamoorthy, “Design of ASIC for CAN protocol controller,” TTU, 2006. 
+
 
 
 
